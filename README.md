@@ -1,6 +1,6 @@
 # Mohamed Elmorshedy
 
-I'm a junior web developer. I build and ship web apps by directing AI coding assistants, and I'm looking for a fully remote role in development, technical support or software implementation. I am a Business Information Systems graduate in Cairo. Before this I worked in client accounts and marketing, so I am used to turning what a client says into something a team can build.
+I'm a junior web developer in Cairo with a degree in Business Information Systems. I'm looking for a fully remote role in development, technical support or software implementation. Everything below is live, so you can try it. I came to this from client accounts and marketing, which is where I learned to turn what a client says into something a team can build.
 
 ## Projects
 
@@ -32,7 +32,7 @@ Flutter, Dart and Supabase. FixCity began as our six-person BIS graduation proje
 
 ## How I work
 
-I build with AI coding assistants. They write most of the code. I decide what gets built, set the standard, review and test what comes back, and make the calls on scope, design and trade-offs. Each project's README says how it was made.
+I plan each project, make the design and technical decisions, and test everything myself before it goes out. I work with AI coding tools like Claude Code and Codex, and each project's README explains exactly how it was made.
 
 Earlier I managed a client account and led its team at BPOHive, worked on campaign and interface concepts at Gamyverse, and handled B2B messaging at Halvern, which I co-founded.
 
