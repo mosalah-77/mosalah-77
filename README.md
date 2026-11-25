@@ -34,7 +34,7 @@ Flutter, Dart and Supabase. FixCity began as our six-person BIS graduation proje
 
 I build with AI coding assistants. They write most of the code. I decide what gets built, set the standard, review and test what comes back, and make the calls on scope, design and trade-offs. Each project's README says how it was made.
 
-Earlier I led a team of five at BPOHive, worked on campaign and interface concepts at Gamyverse, and handled B2B messaging at Halvern, which I co-founded.
+Earlier I managed a client account and led its team at BPOHive, worked on campaign and interface concepts at Gamyverse, and handled B2B messaging at Halvern, which I co-founded.
 
 ## Contact
 
