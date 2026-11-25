@@ -1,6 +1,6 @@
 # Mohamed Elmorshedy
 
-I build web and app products with AI coding tools, and I am looking for a junior development or software implementation role. I am a Business Information Systems graduate in Cairo. Before this I worked in client accounts and marketing, so I am used to turning what a client says into something a team can build.
+I'm a junior web developer. I build and ship web apps by directing AI coding assistants, and I'm looking for a fully remote role in development, technical support or software implementation. I am a Business Information Systems graduate in Cairo. Before this I worked in client accounts and marketing, so I am used to turning what a client says into something a team can build.
 
 ## Projects
 
@@ -12,7 +12,7 @@ Website briefs for studios and their clients, done as a chat. A studio asks six 
 
 ![Samepage: the client's side of a brief](https://raw.githubusercontent.com/mosalah-77/samepage/main/docs/screenshot-light.png)
 
-React and TypeScript on a Cloudflare Worker with a D1 database. The server keeps each client's work separate, handles two people saving at once, makes retries safe and stores uploaded files privately. It has 51 automated checks, a clean accessibility scan, security headers and rate limits. I scoped it, chose the stack, took the design through several rounds and reviewed the build.
+React and TypeScript on a Cloudflare Worker with a D1 database. The server keeps each client's work separate, handles two people saving at once, makes retries safe and stores uploaded files privately. Unit and API tests cover it, with a clean accessibility scan, security headers and rate limits. I scoped it, chose the stack, took the design through several rounds and reviewed the build.
 
 ### Oriel & Reed
 
@@ -40,4 +40,4 @@ Earlier I managed a client account and led its team at BPOHive, worked on campai
 
 [Portfolio and case studies](https://go.mosalah-77.workers.dev/portfolio) · [LinkedIn](https://www.linkedin.com/in/mohamed-elmorshedy) · [Email](mailto:m.elmorshedy635@gmail.com)
 
-Open to junior development, AI-assisted product building and implementation roles, fully remote from Egypt. Arabic is my first language and I work in English at a full professional level.
+Open to junior roles in web development, technical support and software implementation, fully remote from Egypt. The projects above are live and I keep improving them. Arabic is my first language and I work in English at a full professional level.
