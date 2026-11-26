@@ -2,13 +2,15 @@
 
 I'm a junior web developer in Cairo with a degree in Business Information Systems. I'm looking for a fully remote role in development, technical support or software implementation. Everything below is live, so you can try it. I came to this from client accounts and marketing, which is where I learned to turn what a client says into something a team can build.
 
+My portfolio site has the projects and how I work in one place: [go.mosalah-77.workers.dev/portfolio](https://go.mosalah-77.workers.dev/portfolio)
+
 ## Projects
 
 ### Samepage
 
 Website briefs for studios and their clients, done as a chat. A studio asks six questions, the client answers and sends the brief, and the studio approves one version or sends it back with a note.
 
-**[Try the live demo](https://go.mosalah-77.workers.dev/samepage)** · [Code](https://github.com/mosalah-77/samepage) · [How it works](https://github.com/mosalah-77/samepage/blob/main/docs/how-it-works.md) · [Decisions](https://github.com/mosalah-77/samepage/blob/main/docs/decisions.md)
+**[Try the live demo](https://go.mosalah-77.workers.dev/samepage)** · [Code](https://github.com/mosalah-77/samepage) · [How it works](https://github.com/mosalah-77/samepage/blob/main/docs/how-it-works.md) · [Decisions](https://github.com/mosalah-77/samepage/blob/main/docs/decisions.md) · [Watch the one-minute walkthrough](https://github.com/mosalah-77/samepage/blob/main/public/walkthrough.mp4)
 
 ![Samepage: the client's side of a brief](https://raw.githubusercontent.com/mosalah-77/samepage/main/docs/screenshot-light.png)
 
@@ -29,6 +31,14 @@ Report a problem with a road or a streetlight and follow it through staff review
 [Open the browser demo](https://go.mosalah-77.workers.dev/fixcity) · [Watch the Android walkthrough](https://github.com/mosalah-77/FixCity/releases/download/v1.1.1-demo.1/fixcity-demo-1.1.1.mp4) · [Download the APK](https://github.com/mosalah-77/FixCity/releases/tag/v1.1.1-demo.1) · [Code](https://github.com/mosalah-77/FixCity)
 
 Flutter, Dart and Supabase. FixCity began as our six-person BIS graduation project. I worked on the user flows, shared the technical direction and built parts of the frontend, then extended it for this portfolio. The demo uses made-up data and is not an official government service. The [original repository](https://github.com/moatazahmedshaker/Fixcity), Ahmed Wael Ali / DoctorJhin and the original team are credited in the project README and history.
+
+### Portfolio site
+
+My projects, how I work and how to reach me, on one site.
+
+[Open the site](https://go.mosalah-77.workers.dev/portfolio) · [Code](https://github.com/mosalah-77/portfolio)
+
+React, TypeScript and the Motion library, built to static pages and served by a Cloudflare Worker.
 
 ## How I work
 
