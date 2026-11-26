@@ -1,6 +1,6 @@
 # Mohamed Elmorshedy
 
-I'm a junior web developer in Cairo with a degree in Business Information Systems. I'm looking for a fully remote role in development, technical support or software implementation. Everything below is live, so you can try it. I came to this from client accounts and marketing, which is where I learned to turn what a client says into something a team can build.
+I'm a junior web developer in Cairo with a degree in Business Information Systems. I'm looking for a fully remote role in development, technical support or software implementation. Most of what's below is live, so you can try it. I came to this from client accounts and marketing, which is where I learned to turn what a client says into something a team can build.
 
 My portfolio site has the projects and how I work in one place: [go.mosalah-77.workers.dev/portfolio](https://go.mosalah-77.workers.dev/portfolio)
 
@@ -32,6 +32,14 @@ Report a problem with a road or a streetlight and follow it through staff review
 
 Flutter, Dart and Supabase. FixCity began as our six-person BIS graduation project. I worked on the user flows, shared the technical direction and built parts of the frontend, then extended it for this portfolio. The demo uses made-up data and is not an official government service. The [original repository](https://github.com/moatazahmedshaker/Fixcity), Ahmed Wael Ali / DoctorJhin and the original team are credited in the project README and history.
 
+### SSH honeypot
+
+A fake SSH server that records every password a client tries and every command it types, and runs none of them. It only listens on my own machine.
+
+[Code](https://github.com/mosalah-77/small-ssh-honeypot)
+
+Python and Paramiko, with a JSON log, a stats script and a small dashboard.
+
 ### Portfolio site
 
 My projects, how I work and how to reach me, on one site.
@@ -50,4 +58,4 @@ Earlier I managed a client account and led its team at BPOHive, worked on campai
 
 [Portfolio and case studies](https://go.mosalah-77.workers.dev/portfolio) · [LinkedIn](https://www.linkedin.com/in/mohamed-elmorshedy) · [Email](mailto:m.elmorshedy635@gmail.com)
 
-Open to junior roles in web development, technical support and software implementation, fully remote from Egypt. The projects above are live and I keep improving them. Arabic is my first language and I work in English at a full professional level.
+Open to junior roles in web development, technical support and software implementation, fully remote from Egypt. The web projects above are live and I keep improving them. Arabic is my first language and I work in English at a full professional level.
